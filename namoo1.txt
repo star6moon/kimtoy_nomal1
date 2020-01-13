@@ -1,5 +1,6 @@
 #title
 content
 다른 물고기
-병합 고?
-고고?
+end
+newstart
+재시작
