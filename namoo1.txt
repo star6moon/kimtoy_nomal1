@@ -1,6 +1,3 @@
 #title
 content
-물고기2
-#title
-content
-다른 물고기2
+다른 물고기
